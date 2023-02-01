@@ -1,0 +1,2 @@
+commit name does not have jira ticket
+branch name has jira ticket
