@@ -3,4 +3,5 @@
 This is a test area for things like Jira/GitHub integration
 
 Testcases:
-  [ ] add tkt no. to commit message
+  [x] add tkt no. to commit message --> turned the ticket into "In Progress"
+  [ ] try again with commit message 
