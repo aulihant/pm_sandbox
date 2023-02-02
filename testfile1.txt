@@ -1,2 +1,0 @@
-branch name does not contain ticket name
-commit contains ticket name
