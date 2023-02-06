@@ -7,4 +7,4 @@ Testcases:
   [x] try again with commit message  --> somehow did not include commit message
   [ ] try again with commeit message 
 Testcases:
-PM-20 in commit message
+PM-20 in commit message but not in branch and not in PR name
