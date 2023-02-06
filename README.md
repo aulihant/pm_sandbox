@@ -10,3 +10,4 @@ Testcases:
 PM-20 in commit message but not in branch and not in PR name    
 https://zeroasic.atlassian.net/browse/PM-22
 https://zeroasic.atlassian.net/browse/PM-23
+https://zeroasic.atlassian.net/browse/PM-24
