@@ -8,3 +8,4 @@ Testcases:
   [ ] try again with commeit message 
 Testcases:
 PM-20 in commit message but not in branch and not in PR name    
+https://zeroasic.atlassian.net/browse/PM-22
