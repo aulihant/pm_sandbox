@@ -16,3 +16,4 @@ https://zeroasic.atlassian.net/browse/PM-26
 https://zeroasic.atlassian.net/browse/PM-27
 https://zeroasic.atlassian.net/browse/PM-28
 https://zeroasic.atlassian.net/browse/PM-29
+https://zeroasic.atlassian.net/browse/TST4-1
